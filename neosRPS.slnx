@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Files/">
+    <File Path="CONTRIBUTING.md" />
+    <File Path="LICENSE.txt" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="neosRPS/neosRPS.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
