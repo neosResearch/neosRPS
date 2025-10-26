@@ -126,7 +126,7 @@ See the forthcoming [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## 🏷️ Copyright Notice
 
-© 2025 néosResearch.  
+© 2025 néosResearch (Leland Johnson).  
 All rights reserved.
 
 néosRPS is provided under the terms of the GNU General Public License v3.0, with optional commercial licensing available from néosResearch.
