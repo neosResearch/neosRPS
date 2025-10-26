@@ -1,0 +1,77 @@
+néosRPS — Remote Pilot Station
+Copyright (C) 2025 néosResearch
+
+====================================================================
+néosRPS is dual-licensed under the GNU General Public License v3.0
+and a commercial license from néosResearch (Leland Johnson).
+====================================================================
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+néosRPS is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+====================================================================
+COMMERCIAL USE AND LICENSING
+====================================================================
+
+As the copyright holder, néosResearch offers néosRPS under a separate
+commercial license to organizations that wish to:
+
+  • Develop and distribute proprietary plug-ins, integrations, or
+    extensions that are not released under the GPLv3.
+
+  • Embed néosRPS or its libraries in closed-source or commercial
+    products.
+
+  • Receive dedicated technical support, priority fixes, or
+    integration assistance.
+
+Commercial license terms grant the right to use néosRPS without the
+obligations of the GNU General Public License, including the ability
+to link with or distribute proprietary components.
+
+For information about commercial licensing, OEM integration, or
+enterprise support, please contact:
+
+    néosResearch Licensing
+    Email: Licensing@neosResearch.net
+
+====================================================================
+CONTRIBUTOR AGREEMENT
+====================================================================
+
+By submitting code or documentation to the néosRPS project, you agree
+that your contribution is provided under the terms of the GNU General
+Public License version 3 (GPLv3) and that néosResearch may include it
+in both the GPLv3 and commercial versions of néosRPS.
+
+This dual-licensing model ensures that néosRPS remains open-source
+and community-driven while allowing commercial partners to build upon
+it under compatible terms.
+
+====================================================================
+SUMMARY
+====================================================================
+Open-source users:   Licensed under GPLv3 (see below).
+Commercial partners: Obtain a separate commercial license.
+
+Copyright (C) 2025 néosResearch (Leland Johnson)
+All rights reserved.
+
+====================================================================
+FULL GNU GENERAL PUBLIC LICENSE v3.0
+====================================================================
+
+[The complete, unmodified text of the GNU General Public License
+ version 3.0 should be included here — available at:
+ https://www.gnu.org/licenses/gpl-3.0.txt]
+
