@@ -30,20 +30,35 @@ néosRPS aims to provide an open foundation for research, education, and industr
 ## 🧩 Architecture Overview
 
 Remote Pilot Station
+
 ├── Core Framework (GPLv3)
+
 │ ├── UI Shell
+
 │ ├── Plugin Host
+
 │ ├── Telemetry Services
+
 │ └── Mission Management
+
 │
+
 ├── Official néosPlug-ins (GPLv3)
+
 │ ├── Flight Display
+
 │ ├── Map Engine
+
 │ ├── MAVLink Adapter
+
 │
+
 └── Partner Plug-ins (Commercial License)
+
 ├── AI Target Tracking
+
 ├── Video Stream Analysis
+
 └── Enterprise Integration Modules
 
 ---
@@ -76,8 +91,7 @@ For details, see the [LICENSE.txt](./LICENSE.txt) file.
 To request a commercial license, contact:
 
 > **néosResearch Licensing**  
-> Email: [licensing@neosresearch.com](mailto:licensing@neosresearch.com)  
-> Website: [https://www.neosresearch.com/licensing](https://www.neosresearch.com/licensing)
+> Email: [licensing@neosresearch.net](mailto:Licensing@neosResearch.net)  
 
 ---
 
@@ -103,8 +117,8 @@ See the forthcoming [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## 💬 Community and Support
 
-- 🌐 Website: [https://www.neosresearch.com](https://www.neosresearch.com)
-- 📧 Contact: [info@neosresearch.com](mailto:info@neosresearch.com)
+- 🌐 Website: [https://www.neosResearch.net](https://www.neosResearch.net)
+- 📧 Contact: [info@neosResearch.net](mailto:Info@neosResearch.net)
 - 🧑‍💻 Issues: [GitHub Issues](https://github.com/neosResearch/neosRPS/issues)
 - 💬 Discussions: Coming soon on GitHub Discussions
 
